@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C#
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manalexov)](https://github.com/anuraghazra/github-readme-stats)
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manalexov)](https://github.com/anuraghazra/github-readme-stats)
 - [![codewars](https://www.codewars.com/users/manalex/badges/small)](https://www.codewars.com/users/username) 
 <!--
