@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <!--
 **manalexov/manalexov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
